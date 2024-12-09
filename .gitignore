@@ -1,0 +1,5 @@
+# Ignore node_modules in the frontend directory
+frontend/node_modules/
+
+# Ignore .git directory in QuizMeApp
+.git/
